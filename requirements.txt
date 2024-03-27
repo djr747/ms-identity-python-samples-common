@@ -1,1 +1,1 @@
-msal>=1.6.0,<2
+git+https://github.com/AzureAD/microsoft-authentication-library-for-python.git@mi
